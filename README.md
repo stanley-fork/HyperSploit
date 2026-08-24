@@ -1,4 +1,7 @@
 # HyperSploit
+> [!WARNING]
+> This exploit has been patched on newer HyperOS 2 and completely on HyperOS 3 onwards. The project will no longer be maintained, and new issues will be ignored. I am not aware of any other exploits that would help, so there is no fix.
+
 This is a simple zero depedencies utility to bypass HyperOS restrictions on bootloader unlocking.
 
 ## Why another tool?
